@@ -1,5 +1,9 @@
 # Tessie MCP
 
+> [!NOTE]
+> **This repository is archived.** Tessie now publishes an official MCP server.
+> See the [Tessie MCP reference documentation](https://developer.tessie.com/reference/mcp).
+
 Personal, self-hosted MCP access to Tessie. It is a Streamable HTTP server at `/mcp`, designed for one owner and protected by a static bearer token.
 
 ## Setup
